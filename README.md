@@ -20,7 +20,6 @@
 ## Table of contents
 
 - [Usage](#usage)
-- [About](#about)
 - [Contributing](#contributing)
 
 ## Usage

@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-  <a href='https://example.com'>
+  <a href='/'>
     <img src='https://img.shields.io/badge/stability-stable-blue?style=for-the-badge'>
   </a>
   <a href='https://github.com/raphtlw/indoc/pulls'>

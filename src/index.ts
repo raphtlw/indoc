@@ -18,7 +18,7 @@ export function indoc(document: TemplateStringsArray): string {
 }
 
 export function ind(document: string): string {
-  return document[0]
+  return document
     .split("\n")
     .map((item) => item.trim())
     .filter((item) => item.length > 0)

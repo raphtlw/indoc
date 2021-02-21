@@ -1,6 +1,6 @@
 {
   "name": "@raphtlw/indoc",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Indented document literals for JavaScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
